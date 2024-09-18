@@ -1,0 +1,25 @@
+.videoblog {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.videoblog h2 {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.videoblog p {
+    color: #b0bec5;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.videoblog iframe {
+    margin-top: 8px;
+    margin-bottom: 20px;
+    
+}

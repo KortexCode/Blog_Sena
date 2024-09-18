@@ -1,0 +1,26 @@
+.chronicle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.chronicle h2 {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.chronicle p {
+    color: #b0bec5;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.chronicle .chronicle-img {
+    width: 20%;
+    margin: 4px;
+    border-radius: 8px;
+    object-fit: cover;
+    float: right;
+}

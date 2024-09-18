@@ -1,0 +1,26 @@
+.brochurePage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.brochurePage h2 {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.brochurePage p{
+    color: #b0bec5;
+    font-size: 1em; 
+    font-weight: bold;
+}
+
+.brochure-img {
+    width: 80%;
+    height: 80%;
+    margin-bottom: 8px;
+    object-fit: cover;
+    box-shadow: 0 0 4px 5px rgb(85, 118, 157);
+}

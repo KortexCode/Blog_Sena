@@ -1,0 +1,24 @@
+.exposureblog {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.exposureblog h2 {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.exposureblog p {
+    color: #b0bec5;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.exposureblog iframe {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
