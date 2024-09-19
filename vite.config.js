@@ -15,7 +15,9 @@ export default defineConfig(({ command, mode }) => {
   if (command === "build") {
     console.log(command, mode);
     return {
+      base: "./",
       build: {
+        outDir: "dist",
         rollupOptions: {
           input: {
             main: resolve(__dirname, "index.html"),
