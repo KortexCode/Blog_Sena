@@ -30,6 +30,11 @@ function Main() {
                     <p>Critical thinking is the ability to analyze, evaluate, and judge information in a logical and objective way. It involves questioning and examining arguments, beliefs, and sources of information, avoiding accepting ideas without proper analysis.</p>
                     <Link rel="stylesheet" href="" to={"/critical-thinking"}>Read More</Link>
                 </section>
+                <section className="post">
+                    <h2>Crime and Punishment</h2>
+                    <p>crime.</p>
+                    <Link rel="stylesheet" href="" to={"/Crime-and-Punishment"}>Read More</Link>
+                </section>
              </div>
         </main>
     )

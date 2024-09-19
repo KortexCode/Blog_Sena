@@ -1,0 +1,36 @@
+.Crime-Pusnishment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.Crime-Pusnishment h2 {
+    padding: 10px;
+    box-shadow: 0 0 3px 4px #177889;
+    color: #e2e2e2;
+}
+
+.Crime-Pusnishment h3 {
+    color: #60b1e3;
+}
+
+.container-Crime-Pusnishment__tile {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.container-Crime-Pusnishment p {
+    color: #b0bec5;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.Crime-Pusnishment-img {
+    width: 30%;
+    margin: 4px;
+    border-radius: 8px;
+    object-fit: cover;
+    float: center;
+}
