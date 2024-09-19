@@ -2,8 +2,8 @@
 function Header(){
     return(
         <header>
-            <h1>English Component Blog</h1>
-            <p>Welcome to my blog</p>
+            <h1>Welcome to my blog</h1>
+            <p>Activities about the english componet</p>
         </header>
     )
 }

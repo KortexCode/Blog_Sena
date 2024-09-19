@@ -32,7 +32,7 @@ function Main() {
                 </section>
                 <section className="post">
                     <h2>Crime and Punishment</h2>
-                    <p>crime.</p>
+                    <p>The topic of &quot;crime and punishment&quot; addresses the various ways in which criminal behavior manifests in society and the different penalties applied to those who break the law.</p>
                     <Link rel="stylesheet" href="" to={"/Crime-and-Punishment"}>Read More</Link>
                 </section>
              </div>
