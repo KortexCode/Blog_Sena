@@ -25,6 +25,11 @@ function Main() {
                     <p>In accordance with the topic studied in the first level, choose a family member or a friend to introduce them through a short video using your webcam in English.</p>
                     <Link rel="stylesheet" href="" to={"/video"}>Read More</Link>
                 </section>
+                <section className="post">
+                    <h2>Critical Thinking</h2>
+                    <p>Critical thinking is the ability to analyze, evaluate, and judge information in a logical and objective way. It involves questioning and examining arguments, beliefs, and sources of information, avoiding accepting ideas without proper analysis.</p>
+                    <Link rel="stylesheet" href="" to={"/critical-thinking"}>Read More</Link>
+                </section>
              </div>
         </main>
     )
