@@ -31,40 +31,6 @@ main {
   width: 100%;
 }
 
-.post {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: auto 1fr auto;
-  background-color: #1f1f1f;
-  border: 1px solid #333333;
-  padding: 20px;
-  /* width: 45%; */
-  border-radius: 8px;
-  transition: background-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-}
-
-.post:hover {
-  background-color: #2a2a2a;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
-}
-
-.post h2 {
-  color: #ffffff;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.post p {
-  color: #b0bec5;
-  font-size: 1em;
-}
-
-.post a {
-  display: inline-block;
-  margin-top: 10px;
-  color: #42a5f5;
-  font-weight: bold;
-}
 
 /* Footer */
 footer {
