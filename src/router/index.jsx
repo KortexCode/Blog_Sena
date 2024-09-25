@@ -7,6 +7,7 @@ import { ExposureBlog } from "../routes/ExposureBlog";
 import { VideoBlog } from "../routes/VideoBlog";
 import { EntryCriticalThinking } from "../routes/EntryCriticalThinking";
 import { EntryCrimePusnishment } from "../routes/EntryCrimePusnishment";
+import { EmailBlog } from "../routes/EmailBlog";
 
 const router = createHashRouter(
     createRoutesFromElements(
@@ -16,6 +17,7 @@ const router = createHashRouter(
             <Route path="/chronicle" element={<ChronicleBlog />} />
             <Route path="/exposure" element={<ExposureBlog />} />
             <Route path="/video" element={<VideoBlog />} />
+            <Route path="/email" element={<EmailBlog/>} />
             <Route path="/critical-thinking" element={<EntryCriticalThinking/>} />
             <Route path="/crime-and-punishment" element={<EntryCrimePusnishment/>} />
         </Route>      

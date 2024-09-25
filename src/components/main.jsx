@@ -26,6 +26,11 @@ function Main() {
                     <Link rel="stylesheet" href="" to={"/video"}>Read More</Link>
                 </section>
                 <section className="post">
+                    <h2>Email</h2>
+                    <p>A written document is prepared in the form of an email, applying for a job position, including relevant information from your résumé and making effective use of netiquette.</p>
+                    <Link rel="stylesheet" href="" to={"/email"}>Read More</Link>
+                </section>
+                <section className="post">
                     <h2>Critical Thinking</h2>
                     <p>Critical thinking is the ability to analyze, evaluate, and judge information in a logical and objective way. It involves questioning and examining arguments, beliefs, and sources of information, avoiding accepting ideas without proper analysis.</p>
                     <Link rel="stylesheet" href="" to={"/critical-thinking"}>Read More</Link>

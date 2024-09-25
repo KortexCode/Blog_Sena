@@ -1,0 +1,22 @@
+.email-blog {
+   /*  display: flex;
+    align-items: center; */
+    width: 90%;
+    margin: 0 auto;
+}
+
+.email-blog__container {
+    width: 100%;
+}
+
+.email-blog h2 {
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.email-blog p {
+    color: #b0bec5;
+    font-size: 1em;
+    font-weight: bold;
+}
