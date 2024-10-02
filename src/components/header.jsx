@@ -2,7 +2,7 @@
 function Header(){
     return(
         <header>
-            <h1>Welcome</h1>
+            <h1>WELCOME</h1>
             <p>Activities about the english component</p>
         </header>
     )
